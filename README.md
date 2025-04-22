@@ -1,3 +1,4 @@
+![Screenshot 2025-04-21 181350](https://github.com/user-attachments/assets/6182a834-9603-4913-92dc-eb4316b9cb5e)
 About the Project
 This project aims to provide a comprehensive analysis of Swiggy's food delivery service data, leveraging Python for data cleaning and Power BI for visualization. The dataset includes information on 100,000 users and 5.2 million menu rows, covering various aspects such as food items, orders, restaurants, and user behavior.13
 Objectives
